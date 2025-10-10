@@ -1,0 +1,61 @@
+stock_name,stock_id,market_capitalization,sector
+Reliance Industries,RELIANCE,large_cap,energy
+HDFC Bank,HDFCBANK ,large_cap,banking and finance
+Bharti Airtel,BHARTIARTL ,large_cap,telecommunication
+Tata Consultancy Services,TCS ,large_cap,information technology
+ICICI Bank,ICICIBANK ,large_cap,banking and finance
+State Bank of India,SBIN ,large_cap,banking and finance
+Bajaj Finance,BAJFINANCE ,large_cap,banking and finance
+Infosys,INFY ,large_cap,information technology
+Hindustan Unilever,HINDUNILVR ,large_cap,fmcg
+Life Insurance Corp of India,LICI ,large_cap,banking and finance
+Larsen & Toubro,LT ,large_cap,infrastructure
+Maruti Suzuki India,MARUTI ,large_cap,auto
+ITC Ltd,ITC ,large_cap,information technology
+Mahindra & Mahindra,M&M ,large_cap,auto
+Kotak Mahindra Bank,KOTAKBANK ,large_cap,banking and finance
+HCL Technologies,HCLTECH ,large_cap,information technology
+Sun Pharmaceutical Industries,SUNPHARMA ,large_cap,Healthcare
+Axis Bank,AXISBANK ,large_cap,banking and finance
+Titan Company,TITAN ,large_cap,fmcg
+Hyundai Motor,HYUNDAI,large_cap,auto
+Sanofi Consumer,SANOFI,mid_cap,Healthcare
+Waaree Renewable,WAAREERENEW,mid_cap,energy
+RRP Semiconductor,RRP,mid_cap,electronics
+Oswal Pumps,OSWALPUMPS,mid_cap,manufacturing
+Ingersoll-Rand,INGERRAND,mid_cap,manufacturing
+Anand Rathi Wealth,ANANDRATHI,mid_cap,banking and finance
+Shakti Pumps,SHAKTIPUMP,mid_cap,manufacturing
+Castrol India,CASTROLIND,mid_cap,energy
+CAMS Services,CAMS,mid_cap,banking and finance
+Indian Energy Exchange,IEX,mid_cap,energy
+Tata Teleservices Maharashtra,TTML,mid_cap,telecommunication
+Jeena Sikho,JEENASIKHO,mid_cap,Healthcare
+Sanofi India,SANOFIIND,mid_cap,Healthcare
+P & G Health Ltd,PGHL,mid_cap,Healthcare
+Prudent Corp.,PRUDENT,mid_cap,banking and finance
+Piramal Enterp.,PEL,mid_cap,banking and finance
+Schneider Elect.,SCHNEIDER,mid_cap,energy
+Sun TV Network,SUNTV,mid_cap,media and entertainment
+Triveni Turbine,TRIVENI,mid_cap,manufacturing
+Karur Vysya Bank,KARURVYSYA,mid_cap,banking and finance
+R Systems Intl.,RSYSTEMS,small_cap,information technology
+Crizac,CRIZAC,small_cap,manufacturing
+Entero Healthcar,ENTERO,small_cap,Healthcare
+Unimech Aero.,UNIMECHAERO,small_cap,energy
+PTC India,PTC,small_cap,energy
+Innova Captab,INNOVACAP,small_cap,manufacturing
+Sunflag Iron,SUNFLAG,small_cap,manufacturing
+Greaves Cotton,GREAVESCOT,small_cap,auto
+Shilchar Tech.,SHILCHAR,small_cap,electrical
+Websol Energy,WEBSOL,small_cap,energy
+VST Till. Tract.,VSTTILLERS,small_cap,agri
+J Kumar Infra,JKIL,small_cap,infrastructure
+Responsive Ind,RESPONSIND,small_cap,manufacturing
+Route Mobile,ROUTE,small_cap,information technology
+Pace Digitek,PACEDIGI,small_cap,information technology
+Guj. Ambuja Exp,GAEL,small_cap,food
+SJS Enterprises,SJS,small_cap,auto
+SpiceJet,SPICEJET,small_cap,transport
+Natl.Fertilizer,NFL,small_cap,agri
+Gopal Snacks,GOPAL,small_cap,fmcg
