@@ -19,16 +19,6 @@ Sun Pharmaceutical Industries,SUNPHARMA,large_cap,Healthcare
 Axis Bank,AXISBANK,large_cap,banking and finance
 Titan Company,TITAN,large_cap,fmcg
 Hyundai Motor,HYUNDAI,large_cap,auto
-Colgate-Palmoliv,COLPAL,large_cap,fmcg
-Nestle India,NESTLEIND,large_cap,fmcg
-I R C T C,IRCTC,large_cap,travel
-Abbott India,ABBOTINDIA,large_cap,Healthcare
-Nippon Life Ind.,NAM-INDIA,large_cap,banking and finance
-Astrazeneca Phar,ASTRAZEN,large_cap,Healthcare
-Apar Inds.,APARINDS,large_cap,manufacturing
-Suzlon Energy,SUZLON,large_cap,energy
-Ajanta Pharma,AJANTPHARM,large_cap,Healthcare
-Force Motors,FORCEMOT,large_cap,Auto
 Sanofi Consumer,SANOFI,mid_cap,Healthcare
 Waaree Renewable,WAAREERTL,mid_cap,energy
 Jyothy Labs,JYOTHYLAB,mid_cap,fmcg
@@ -49,15 +39,6 @@ Schneider Elect.,SCHNEIDER,mid_cap,energy
 Sun TV Network,SUNTV,mid_cap,media and entertainment
 Triveni Turbine,TRIVENI,mid_cap,manufacturing
 Karur Vysya Bank,KARURVYSYA,mid_cap,banking and finance
-Wework India,EMBASSY,mid_cap,Real estate
-Welspun Corp,WELCORP,mid_cap,manufacturing
-UTI AMC,UTIAMC,mid_cap,banking and finance
-Birlasoft Ltd,BSOFT,mid_cap,information technology
-Emami,EMAMILTD,mid_cap,fmcg
-Tilaknagar Inds.,TI,mid_cap,fmcg
-Gabriel India,GABRIEL,mid_cap,manufacturing
-Shriram Pistons,SHRIPISTON,mid_cap,auto
-Cello World,CELLO,mid_cap,fmcg
 R Systems Intl.,RSYSTEMS,small_cap,information technology
 Crizac,CRIZAC,small_cap,manufacturing
 Entero Healthcar,ENTERO,small_cap,Healthcare
@@ -78,10 +59,3 @@ SJS Enterprises,SJS,small_cap,auto
 Trident,TRIDENT,small_cap,manufacturing
 Natl.Fertilizer,NFL,small_cap,agri
 Gopal Snacks,GOPAL,small_cap,fmcg
-GK Energy,GKENERGY,small_cap,energy
-Sigma Solve,SIGMA,small_cap,information technology
-Euro Pratik Sale,EUROPRATIK,small_cap,fmcg
-Advani Hotels.,ADVANIHOTR,small_cap,hotels
-
-
-
